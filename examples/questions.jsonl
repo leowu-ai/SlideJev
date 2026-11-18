@@ -1,0 +1,1 @@
+{"id":"example-1","question":"Which tissue pattern is present?","candidates":["Gland formation","Solid nests","Papillary structures"],"target":0,"class_label":"glandular","features":"features/example-1.npy","random_order":[2,0,1]}

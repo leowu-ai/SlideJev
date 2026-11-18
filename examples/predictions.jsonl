@@ -1,0 +1,2 @@
+{"id":"example-1","candidates":["Gland formation","Solid nests","Papillary structures"],"target":0,"class_label":"glandular","predictions":{"original":0,"reversed":0,"cyclic":0,"random":0},"controls":{"mismatched":1,"image_free":2}}
+{"id":"example-2","candidates":["Gland formation","Solid nests","Papillary structures"],"target":1,"class_label":"solid","predictions":{"original":1,"reversed":0,"cyclic":1,"random":1},"controls":{"mismatched":0,"image_free":1}}
